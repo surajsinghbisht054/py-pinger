@@ -13,9 +13,9 @@
 	Note: We Feel Proud To Be Indian
 ######################################################
 
-	High-Speed Ping Sweeping Script written in python
+#	High-Speed Ping Sweeping Script written in python
 
-Features:
+#Features:
 	High-Speed Ping Sweep.
 	Stable Script
 	Cross-platform Supported
@@ -75,7 +75,8 @@ Example 3:
 
 
 
-Usage: pypinger.py [options] 
+#Usage: 
+	pypinger.py [options] 
 
 Options:
   --version             show program's version number and exit
@@ -90,7 +91,8 @@ Options:
                         Specify No. Of Request Per IP
 
 
-Usages Example:
+#Usages Example:
+
 	python pypinger.py -i 192:168:10:1-100
 
 More For Information Read Script Readme Txt Files
