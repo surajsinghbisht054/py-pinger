@@ -1,4 +1,4 @@
-# py-pinger (High-Speed Ping Sweeping Script written in python)
+pypinger.py Version 0.0.1 
 
 ######################################################
 			By S.S.B Group							
@@ -93,12 +93,9 @@ Options:
 Usages Example:
 	python pypinger.py -i 192:168:10:1-100
 
-More For Information Read Script Readme Txt Files
-
+	python pypinger.py -i 192:168:10:1-200 
 
 Thanks For Using My Script
-Feel Free For Contribution or
-for Joining Our Group
 Written By
 S.S.B 
 surajsinghbisht054@gmail.com
