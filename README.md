@@ -1,18 +1,23 @@
 # py-pinger (High-Speed Ping Sweeping Script written in python)
 
-######################################################
-			By S.S.B Group							
-######################################################
 
-	Suraj Singh
-	Admin
-	S.S.B Group
-	surajsinghbisht054@gmail.com
-	https://hackworldwithssb.blogspot.in
+# This Script Is Created For http://bitforestinfo.blogspot.in
+# This Script is Written By
+__author__='''
 
-	Note: We Feel Proud To Be Indian
+######################################################
+                By S.S.B Group                          
 ######################################################
 
+    Suraj Singh
+    Admin
+    S.S.B Group
+    surajsinghbisht054@gmail.com
+    http://bitforestinfo.blogspot.in/
+
+    Note: We Feel Proud To Be Indian
+######################################################
+'''
 #	High-Speed Ping Sweeping Script written in python
 
 #Features:

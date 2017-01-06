@@ -1,26 +1,23 @@
 #!/usr/bin/python
-# python Script For Scanning Live IP Addresses version 0.0.1
-#
-# =========================================================================|
-#   This Script is Created Only for Practise And Educational Purpose Only
-# =========================================================================|
-#
+
+# ---------------- READ ME ---------------------------------------------
+# This Script is Created Only For Practise And Educational Purpose Only
+# This Script Is Created For http://bitforestinfo.blogspot.in
+# This Script is Written By
 __author__='''
-######################################################
-			By S.S.B Group							
-######################################################
 
-	Suraj Singh
-	Admin
-	S.S.B Group
-	surajsinghbisht054@gmail.com
-	https://hackworldwithssb.blogspot.in
-
-	Note: We Feel Proud To Be Indian
+######################################################
+                By S.S.B Group                          
 ######################################################
 
-	High-Speed Ping Sweep Script written in python
+    Suraj Singh
+    Admin
+    S.S.B Group
+    surajsinghbisht054@gmail.com
+    http://bitforestinfo.blogspot.in/
 
+    Note: We Feel Proud To Be Indian
+######################################################
 '''
 # =================Other Configuration================ 
 # Usages :
